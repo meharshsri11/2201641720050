@@ -1,5 +1,4 @@
-1. Project Title
-## AffordMed - React URL Shortener
+React URL Shortener
 
 2. Project Description
 Provide a brief, clear summary of what your application does.
